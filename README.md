@@ -4,7 +4,7 @@ a list with links to all the Mods and Datapacks we use on the Family server!
 ### Datapacks
 
 *From Vanilla Tweaks:* (https://vanillatweaks.net/picker/datapacks/)
-- Anti Enderman Greifing
+- Anti Enderman Griefing
 - Coordinates HUD
 - Fast Leaf Decay
 - Graves
