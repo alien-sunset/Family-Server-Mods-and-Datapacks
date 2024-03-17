@@ -52,7 +52,7 @@ a list with links to all the Mods and Datapacks we use on the Family server!
  - Ledger (https://modrinth.com/mod/ledger)
  - Lithium (https://modrinth.com/mod/lithium)
  - Memory Leak Fix (https://modrinth.com/mod/memoryleakfix)
- - ModernFix https://modrinth.com/mod/modernfix()
+ - ModernFix (https://modrinth.com/mod/modernfix)
  - No Chat Reports (https://modrinth.com/mod/no-chat-reports)
  - Servercore (https://modrinth.com/mod/servercore)
  - Slumber (https://modrinth.com/mod/slumber)
