@@ -41,7 +41,6 @@ a list with links to all the Mods and Datapacks we use on the Family server!
 ### Mods (Fabric)
 
 *Performance/Maintenance*
- - Blossom PVP (https://modrinth.com/mod/blossompvp)
  - C2Me (https://modrinth.com/mod/c2me-fabric)
  - Chunky (https://modrinth.com/plugin/chunky)
  - Clumps (https://modrinth.com/mod/clumps)
@@ -65,6 +64,7 @@ a list with links to all the Mods and Datapacks we use on the Family server!
  - Appleskin (https://modrinth.com/mod/appleskin)
  - Armor Poser (https://modrinth.com/mod/armor-poser)
  - Audio Player (https://modrinth.com/mod/audioplayer)
+ - Blossom PVP (https://modrinth.com/mod/blossompvp)
  - CalcMod (https://modrinth.com/mod/calcmod)
  - Carpet (https://modrinth.com/mod/carpet)
  - Carpet Extra (https://modrinth.com/mod/carpet-extra)
