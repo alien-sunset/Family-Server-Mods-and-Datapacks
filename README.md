@@ -69,11 +69,13 @@ a list with links to all the Mods and Datapacks we use on the Family server!
  - Carpet (https://modrinth.com/mod/carpet)
  - Carpet Extra (https://modrinth.com/mod/carpet-extra)
  - Carpet Fixes (https://modrinth.com/mod/carpet-fixes)
+ - Coord Finder (https://modrinth.com/mod/coord-finder)
  - Fsit (https://modrinth.com/mod/fsit)
  - More Zombie Villagers (https://modrinth.com/mod/more-zombie-villagers)
  - Server Hats (https://modrinth.com/mod/server-hats)
  - Sessility (https://modrinth.com/mod/sessility)
  - Simple Voice Chat (https://modrinth.com/plugin/simple-voice-chat)
+ - Simple Voice Chat Enhanced Groups (https://modrinth.com/mod/enhanced-groups)
  - Zombie Horse Spawn (https://modrinth.com/mod/zombie-horse-spawn)
  - Zombie Villagers from Spawner (https://modrinth.com/mod/zombie-villagers-from-spawner)
 
