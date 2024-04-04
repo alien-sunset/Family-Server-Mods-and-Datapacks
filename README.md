@@ -83,5 +83,6 @@ a list with links to all the Mods and Datapacks we use on the Family server!
  - Collective (https://modrinth.com/mod/collective)
  - Fabric API (https://modrinth.com/mod/fabric-api)
  - Fabric Language Kotlin (https://modrinth.com/mod/fabric-language-kotlin)
+ - MidnightLib (https://modrinth.com/mod/midnightlib)
  - Modmenu (https://modrinth.com/mod/modmenu)
  - owo (https://modrinth.com/mod/owo-lib)
