@@ -37,6 +37,8 @@ a list with links to all the Mods and Datapacks we use on the Family server!
  - Armor Statues (https://www.curseforge.com/minecraft/customization/armor-statues-datapack)
  - Custom Roleplay Data (https://www.curseforge.com/minecraft/customization/custom-roleplay-data-datapack)
  - Name Formatting Station (https://www.curseforge.com/minecraft/customization/name-formatting-station-datapack)
+ - Banner Beadsheets (https://modrinth.com/datapack/banner-bedsheets)
+ - Gardener's Dream (https://modrinth.com/datapack/gardeners-dream)
 
 ### Mods (Fabric)
 
@@ -88,3 +90,5 @@ a list with links to all the Mods and Datapacks we use on the Family server!
  - MidnightLib (https://modrinth.com/mod/midnightlib)
  - Modmenu (https://modrinth.com/mod/modmenu)
  - owo (https://modrinth.com/mod/owo-lib)
+ - PCA Protocol (https://github.com/Fallen-Breath/pca-protocol/releases)
+ - Yet Another Config Lib (https://modrinth.com/mod/yacl)
