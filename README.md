@@ -73,6 +73,7 @@ a list with links to all the Mods and Datapacks we use on the Family server!
  - Carpet Fixes (https://modrinth.com/mod/carpet-fixes)
  - Coord Finder (https://modrinth.com/mod/coord-finder)
  - Fsit (https://modrinth.com/mod/fsit)
+ - Litemoretica (https://modrinth.com/mod/litemoretica)
  - More Zombie Villagers (https://modrinth.com/mod/more-zombie-villagers)
  - Server Hats (https://modrinth.com/mod/server-hats)
  - Sessility (https://modrinth.com/mod/sessility)
@@ -90,5 +91,4 @@ a list with links to all the Mods and Datapacks we use on the Family server!
  - MidnightLib (https://modrinth.com/mod/midnightlib)
  - Modmenu (https://modrinth.com/mod/modmenu)
  - owo (https://modrinth.com/mod/owo-lib)
- - PCA Protocol (https://github.com/Fallen-Breath/pca-protocol/releases)
  - Yet Another Config Lib (https://modrinth.com/mod/yacl)
