@@ -1,5 +1,5 @@
 # Family-Server-Mods-and-Datapacks
-a list with links to all the Mods and Datapacks we use on the Family server!
+a list with links to all the Mods and Datapacks we use on the Family 1.21 server!
 
 ### Datapacks
 
@@ -9,29 +9,31 @@ a list with links to all the Mods and Datapacks we use on the Family server!
 - Fast Leaf Decay
 - Graves
 - Homes
+- Husk Drop Sand
+- Mini Blocks
 - More Mob Heads
 - Multiplayer Sleep
-- Nether Portal Coords
 - Player Head Drops
-- Thunder Shrine
+- Storm Channeling
 - Track Raw Statistics
 - Track Statistics
 - Unlock all Recipes
+- Wandering Trader Announcements
 - Wandering Trades Hermit Edition
 
 *Vanilla Tweaks Crafting Tweaks:* (https://vanillatweaks.net/picker/crafting-tweaks/)
 - Unpackable Ice
 - Unpackable Wool
-- Craftable Coral Blocks 2x2
+- Craftable Coral Blocks 3x3
 - Craftable Name Tags
 - Craftable Bundles rabbit hide
 - Craftable Bundles leather
 - More Trapdoors
 - Back to Blocks
 - Rotten Flesh to Leather
+- Charcoal to Black Dye
 - Sandstone Dyeing
 - Universal Dyeing
-- Charcoal to Black Dye
 
 *Other Datapacks*
  - Armor Statues (https://www.curseforge.com/minecraft/customization/armor-statues-datapack)
@@ -52,7 +54,6 @@ a list with links to all the Mods and Datapacks we use on the Family server!
  - Krypton (https://modrinth.com/mod/krypton)
  - Ledger (https://modrinth.com/mod/ledger)
  - Lithium (https://modrinth.com/mod/lithium)
- - Memory Leak Fix (https://modrinth.com/mod/memoryleakfix)
  - ModernFix (https://modrinth.com/mod/modernfix)
  - No Chat Reports (https://modrinth.com/mod/no-chat-reports)
  - Servercore (https://modrinth.com/mod/servercore)
@@ -70,16 +71,13 @@ a list with links to all the Mods and Datapacks we use on the Family server!
  - CalcMod (https://modrinth.com/mod/calcmod)
  - Carpet (https://modrinth.com/mod/carpet)
  - Carpet Extra (https://modrinth.com/mod/carpet-extra)
- - Carpet Fixes (https://modrinth.com/mod/carpet-fixes)
  - Coord Finder (https://modrinth.com/mod/coord-finder)
+ - Friends & Foes (https://modrinth.com/mod/friends-and-foes)
  - Fsit (https://modrinth.com/mod/fsit)
- - Litemoretica (https://modrinth.com/mod/litemoretica)
  - More Zombie Villagers (https://modrinth.com/mod/more-zombie-villagers)
- - Server Hats (https://modrinth.com/mod/server-hats)
  - Sessility (https://modrinth.com/mod/sessility)
  - Simple Voice Chat (https://modrinth.com/plugin/simple-voice-chat)
  - Simple Voice Chat Enhanced Groups (https://modrinth.com/mod/enhanced-groups)
- - Zombie Horse Spawn (https://modrinth.com/mod/zombie-horse-spawn)
  - Zombie Villagers from Spawner (https://modrinth.com/mod/zombie-villagers-from-spawner)
 
 *libs,etc*
@@ -89,6 +87,5 @@ a list with links to all the Mods and Datapacks we use on the Family server!
  - Fabric API (https://modrinth.com/mod/fabric-api)
  - Fabric Language Kotlin (https://modrinth.com/mod/fabric-language-kotlin)
  - MidnightLib (https://modrinth.com/mod/midnightlib)
- - Modmenu (https://modrinth.com/mod/modmenu)
  - owo (https://modrinth.com/mod/owo-lib)
  - Yet Another Config Lib (https://modrinth.com/mod/yacl)
