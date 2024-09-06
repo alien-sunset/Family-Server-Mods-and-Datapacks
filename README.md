@@ -91,4 +91,5 @@ a list with links to all the Mods and Datapacks we use on the Family 1.21 server
  - Fabric Language Kotlin (https://modrinth.com/mod/fabric-language-kotlin)
  - MidnightLib (https://modrinth.com/mod/midnightlib)
  - owo (https://modrinth.com/mod/owo-lib)
+ - Servux (https://modrinth.com/mod/servux)
  - Yet Another Config Lib (https://modrinth.com/mod/yacl)
